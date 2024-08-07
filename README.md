@@ -90,7 +90,19 @@ THIS WILL ALL BE IN ONE DIV AND SET WITH FLEXBOX
 
 SPIT HORIZONTALLY LEFT SIDE WILL SAY WELCOME TO CHAIS INK HOUSE AND THE RIGHT WILL HAVE THE ABOUT SECTION TALKING ABOUT THE SHOP
 
-
+/*
+   <div class="artistOne">
+                <h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis neque odit at eligendi 
+                    fugit aut ab atque unde, sed illum ut rerum, eos, 
+                    ipsam aperiam enim dolore earum? Tempore?
+                </h6>
+            </div>
+            <div class="artistTwo">
+                <h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis neque odit at eligendi 
+                    fugit aut ab atque unde, sed illum ut rerum, eos, 
+                    ipsam aperiam enim dolore earum? Tempore?
+                </h6>
+*/
 
 
 GALLERY 
